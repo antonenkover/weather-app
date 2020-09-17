@@ -1,0 +1,10 @@
+{
+  "title": "Weather Forecast",
+  "hint text": "Enter City Name",
+  "details": "Get Details",
+  "extra": "Get extra Data",
+  "empty city snackbar": "Please Enter City Name First",
+  "error": "An error occurred. Please try again",
+  "data error": "Couldn't fetch data. Please retry",
+  "no items": "No items found."
+}
